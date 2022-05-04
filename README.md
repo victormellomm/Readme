@@ -27,4 +27,4 @@
     <a href="https://discord.gg/uWY9GHskfC" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   </div>
   
-  ![Snake animation](https://github.com/rafaballerini/zHazyMoon/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/zHazyMoon/zHazyMoon/blob/output/github-contribution-grid-snake.svg)
