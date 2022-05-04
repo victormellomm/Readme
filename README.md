@@ -2,7 +2,7 @@
 
 - 🔭 Atualmente trabalho com Infraestrutura - Cloud
 - 🌱 Estudando: Microsoft Azure, Terraform e outras tecnologias com foco em DevOps
-- 😄 Pronouns: ele/dele
+- 🤖 Conhecimento nunca é demais!
 - Commits Coming Soon...
 
 <div align="center">
