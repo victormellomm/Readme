@@ -1,4 +1,4 @@
-### Olá, eu sou Victor Mello, 
+### Olá, eu sou Victor Mello!
 
 - 🔭 Atualmente trabalho com Infraestrutura - Cloud
 - 🌱 Estudando: Microsoft Azure, Terraform e outras tecnologias com foco em DevOps
@@ -18,6 +18,8 @@
     <img align="center" alt="Vic-ReactNative" height"30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
     <img align="center" alt="Vic--HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
     <img align="center" alt="Vic-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+    <img align="center" alt="Vic-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
+     <img align="center" alt="Vic-gif" height="100" style="border-radius:50px;" src="https://articulate-heroes.s3.amazonaws.com/uploads/rte/kgrtehja_DancingBannana.gif">
   </div><br>
             
   <div>
@@ -27,6 +29,5 @@
     <a href="https://discord.gg/uWY9GHskfC" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
    </div>
      
-  ![Snake animation](https://github.com/zHazyMoon/zHazyMoon/blob/output/github-contribution-grid-snake.svg)
   
 
